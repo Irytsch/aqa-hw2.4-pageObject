@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/99arwk1nlo0gbkrm?svg=true)](https://ci.appveyor.com/project/Irytsch/aqa-hw2-4-pageobject)
